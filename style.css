@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#h1{
+    color: red;
+    border-style: solid;
+    box-sizing: border-box;
+    border-color: black;
+}
+
+#card{
+
+    box-sizing: border-box;
+
+}
